@@ -1,0 +1,30 @@
+* {
+    box-sizing: content-box;
+    color: white;
+    background-color: black;
+}
+
+.fotoCarnet {
+    width: 35%;
+    margin: 3% 15% !important;
+    border-radius: 20% !important;
+    justify-content: center;
+}
+
+.info-contact ul li {
+    padding-bottom: 20px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 10%;
+    border-radius: 5px;
+    background-color: transparent;
+}
+
+.about-me{
+    display: flex;
+    justify-content: center;
+}
